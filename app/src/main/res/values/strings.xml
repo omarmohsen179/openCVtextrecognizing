@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">openCVtextrecognizing</string>
+    <string name="capture_image">capture Image</string>
+    <string name="detect_text">detect text</string>
+    <string name="todo">TODO</string>
+</resources>

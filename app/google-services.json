@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497676528917",
+    "firebase_url": "https://textrecognizing-7b0ee.firebaseio.com",
+    "project_id": "textrecognizing-7b0ee",
+    "storage_bucket": "textrecognizing-7b0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497676528917:android:749a2c7b7b95adfb93cd1c",
+        "android_client_info": {
+          "package_name": "com.example.opencvtextrecognizing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497676528917-rj1d815nuapin8o4etsi2esunhn15n2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGA4RWOkXvbxoYEEDOQQjBdVrufKgArww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497676528917-rj1d815nuapin8o4etsi2esunhn15n2c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
